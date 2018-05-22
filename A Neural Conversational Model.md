@@ -1,4 +1,11 @@
-## A Neural Conversational Model
+---
+tags:
+- NLP
+- ML/DL
+- Chatbots
+---
+
+# A Neural Conversational Model
 
 - 논문 링크: https://arxiv.org/abs/1506.05869
 

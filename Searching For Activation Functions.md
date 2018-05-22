@@ -1,3 +1,11 @@
+---
+tags:
+- ML/DL
+- Activation Function
+---
+
+# Searching For Activation Functions
+
 - 출처: Prajit Ramachandran, Barret Zoph, Quoc V. Le, Searching for Activation Functions, 2017
 - 논문 링크: https://arxiv.org/pdf/1710.05941.pdf
 
