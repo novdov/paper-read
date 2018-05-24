@@ -20,3 +20,14 @@
 ## ML/DL
 
 - [Searching For Activation Functions](https://github.com/novdov/paper-read/blob/master/Searching%20For%20Activation%20Functions.md)
+
+
+
+
+
+## 미기록 (읽었으나 아직 정리되지 않은 논문들)
+
+- 한글 마이크로블로그 텍스트의 감정 분류 및 분석
+- 랜덤 포레스트를 이용한 한국어 상호참조 해결
+- 오타에 강건한 자모 조합 임베딩 기반 한국어 품사 태깅
+- 
