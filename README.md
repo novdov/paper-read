@@ -30,3 +30,6 @@
 - 한글 마이크로블로그 텍스트의 감정 분류 및 분석
 - 랜덤 포레스트를 이용한 한국어 상호참조 해결
 - 오타에 강건한 자모 조합 임베딩 기반 한국어 품사 태깅
+- 워드임베딩과 그래프 기반 준지도학습을 통한 한국어 어휘 감성 점수 산출
+- Unsupervised Domain Adaption for Sentiment Classification using Pseudo-Labels
+- Semi-supervised Sentiment Classification with Dialog Data
